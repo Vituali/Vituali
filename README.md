@@ -7,6 +7,8 @@ Curto construir sistemas na prática, principalmente envolvendo automação, int
 Atualmente focado em desenvolver soluções próprias e evoluir projetos que misturam software + hardware + IA.
 
 ---
+## 🚀 Projeto Atual
+
 
 ## 🚀 Projeto Principal
 
@@ -86,6 +88,6 @@ Erro faz parte do processo — o importante é quebrar, entender e voltar melhor
 
 ## 📫 Contato
 
-- GitHub: https://github.com/seu-usuario
-- LinkedIn: (adicione aqui se tiver)
-- Discord: (opcional)
+- GitHub: https://github.com/vituali
+- LinkedIn: victorhen
+- Discord: bitu
