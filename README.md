@@ -1,88 +1,170 @@
 # 👨‍💻 Victor (Vitu)  
-### Engenharia Mecatrônica • Telecom • IA & Robótica
+### Engenharia Mecatrônica • Telecom • IA & Automação
 
 Sou estudante de engenharia mecatrônica e trabalho com suporte em telecom (fibra óptica).  
-Curto construir sistemas na prática, principalmente envolvendo automação, inteligência artificial e interfaces reais com o mundo físico.
+Focado em construir sistemas reais que aumentam produtividade, automatizam processos e conectam software com o mundo prático.
 
-Atualmente focado em desenvolver soluções próprias e evoluir projetos que misturam software + hardware + IA.
+Hoje meus projetos giram em torno de **IA aplicada, automação de atendimento e sistemas em tempo real**.
 
 ---
-## 🚀 Projeto Atual
 
+## 🚀 Projetos em Destaque
 
-## 🚀 Projeto Principal
+### ⚡ ATI V2 — Auxiliar de Atendimentos (Web App)
 
-### 🤖 Anima
-Projeto pessoal de uma inteligência artificial com corpo físico e sensores, com foco em:
+Ecossistema web completo para equipes de suporte e telecom, focado em **produtividade, automação e comunicação interna**.
 
-- Percepção do ambiente
-- Interação com o mundo real
-- Desenvolvimento de uma forma de “consciência” robótica
-- Integração entre software, hardware e IA
+#### 💡 O que resolve
+Centraliza ferramentas do dia a dia, reduz retrabalho e acelera atendimentos.
 
-Esse é o projeto que guia praticamente tudo que eu estudo hoje.
+#### 🔥 Principais features
+
+- 💬 Chat setorial em tempo real (Firebase)
+- ⚡ Sistema de respostas rápidas inteligentes com variáveis dinâmicas
+- 📋 Templates de Ordens de Serviço (SGP)
+- 📄 Conversor de PDF direto no navegador (extração de dados de contratos)
+- 📝 Notas pessoais com checklist e status
+- 🔐 Central de acessos (IPs, credenciais, sistemas)
+- 🛡️ Painel administrativo com controle de permissões (RBAC)
+- 🎨 Temas e personalização completa (inclusive vídeo como fundo)
+
+#### 🏗️ Arquitetura
+
+- Componentização reutilizável (UI desacoplada)
+- Hooks customizados para lógica de negócio
+- CSS modular com variáveis globais (temas)
+- Controle de acesso por setor e cargo
+- Estrutura preparada para escala
+
+#### ⚡ Performance
+
+- Performance: ~96
+- Acessibilidade: 100
+- Boas práticas: até 100
+- SEO: 100
+
+Mesmo com processamento local de PDFs, o sistema mantém alta performance.
+
+#### 🛠️ Stack
+
+- React + TypeScript + Vite
+- Firebase (Firestore + Realtime)
+- Arquitetura baseada em hooks
+- Sistema RBAC
+
+---
+
+### 🧩 ATI — Extensão Chrome (ChatMix + SGP)
+
+Extensão desenvolvida para otimizar atendimento dentro do ChatMix, integrando diretamente com o SGP.
+
+#### 💡 O diferencial
+Automatiza tarefas repetitivas e reduz o tempo de atendimento drasticamente.
+
+#### 🔥 Funcionalidades
+
+**Sidebar inteligente no ChatMix:**
+- 👤 Copia contato formatado
+- 🤖 Gera prompt limpo para IA
+- 📄 Extrai CPF/CNPJ automaticamente
+- 📝 Abre O.S com preenchimento automático
+- ↗️ Acesso direto ao SGP
+- 🔄 Atualização de dados em tempo real
+
+**Modal de Ordem de Serviço:**
+- Status online/offline do contrato
+- Tipos de ocorrência com busca
+- Modelos personalizados por atendente
+- Rascunho automático por atendimento
+
+**Quick Replies:**
+- Respostas rápidas categorizadas
+- Inserção com 1 clique
+- Cache em memória (alta performance)
+
+**IA integrada:**
+- Limpeza de histórico automática
+- Separação cliente vs atendente
+- Pronto pra usar com ChatGPT, Claude, etc.
+
+#### 🔐 Autenticação
+
+- Login próprio via Firebase
+- Sessão persistida no Chrome
+- Controle de acesso por status
+
+#### 🏗️ Arquitetura
+
+- Service Worker (background)
+- Content Scripts com injeção no DOM
+- Cache inteligente (até 50 entradas)
+- MutationObserver para detectar mudanças no chat
+- Integração direta com sistemas externos (SGP)
+
+#### 🛠️ Stack
+
+- React + TypeScript
+- Vite (Manifest V3)
+- Firebase Realtime Database
+- Chrome Extensions API
+
+---
+
+## 🤖 Projeto em Evolução
+
+### Anima
+
+Projeto de uma inteligência artificial com corpo físico, focado em:
+
+- Percepção sensorial
+- Interação com ambiente real
+- Integração entre hardware + software + IA
+- Exploração de comportamento autônomo
+
+Esse é o projeto de longo prazo que guia toda minha evolução técnica.
 
 ---
 
 ## 🧠 Áreas de Interesse
 
 - Inteligência Artificial aplicada
+- Automação de processos
+- Sistemas em tempo real
 - Robótica
-- Sistemas embarcados
-- Interfaces humano-máquina
-- Automação
-- Arquitetura de sistemas
-- Desenvolvimento web (frontend + backend)
-
----
-
-## 🛠️ Tecnologias que uso
-
-### 💻 Frontend
-- React
-- Vite
-- TypeScript
-- CSS / UI/UX
-
-### 🔥 Backend / Infra
-- Firebase (Firestore + Realtime DB)
-- Autenticação e regras de segurança
-- Estruturação de dados em tempo real
-
-### ⚙️ Outros
-- Integração com APIs
-- Lógica de sistemas em tempo real
-- Debug e resolução de problemas em produção
+- Arquitetura de software
+- Integração entre sistemas
 
 ---
 
 ## 🧩 Experiência prática
 
-Trabalho com suporte técnico em telecomunicações, lidando com:
+Atuo com suporte técnico em telecom, lidando diariamente com:
 
 - Redes de fibra óptica
-- Diagnóstico de problemas
-- Atendimento ao cliente
 - IPTV
-- Resolução de falhas em tempo real
+- Diagnóstico de falhas
+- Atendimento em tempo real
+- Resolução de problemas sob pressão
 
-Na prática: aprender a resolver problema rápido, mesmo quando tudo tá quebrando ao mesmo tempo.
+Resumo honesto: resolver problema rápido quando ninguém sabe o que está acontecendo.
 
 ---
 
-## 📈 Atualmente estudando
+## 📈 Atualmente evoluindo
 
-- Arquitetura mais robusta para sistemas (saindo do “funciona” pro “escala”)
-- Backend próprio (reduzir dependência de BaaS)
-- IA aplicada em projetos físicos
-- Organização de código e testes automatizados
+- Estruturação de backend próprio
+- Escalabilidade de sistemas
+- Arquitetura limpa (clean architecture)
+- IA aplicada em automação real
+- Testes automatizados
 
 ---
 
 ## 💡 Filosofia
 
-Prefiro aprender fazendo do que só estudando teoria.  
-Erro faz parte do processo — o importante é quebrar, entender e voltar melhor.
+Aprender construindo > aprender só estudando.
+
+Sistema bom é o que funciona em produção… e continua funcionando depois.
 
 ---
 
