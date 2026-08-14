@@ -1,175 +1,324 @@
-# 👨‍💻 Victor (Vitu)  
-### Engenharia Mecatrônica • Telecom • IA & Automação
+# 👨‍💻 Victor (Vitu)
 
-Sou estudante de engenharia mecatrônica e trabalho com suporte em telecom (fibra óptica).  
-Focado em construir sistemas reais que aumentam produtividade, automatizam processos e conectam software com o mundo prático.
+### Mechatronics Engineering • Telecom • Networks • Software • Automation • AI
 
-Hoje meus projetos giram em torno de **IA aplicada, automação de atendimento e sistemas em tempo real**.
+Sou estudante de **Engenharia Mecatrônica** e atuo profissionalmente com **suporte e infraestrutura de telecomunicações**.
 
----
+Minha trajetória acabou cruzando três mundos que normalmente ficam separados: **infraestrutura, software e hardware**. Gosto de construir sistemas que resolvem problemas reais, principalmente quando existe algum processo manual, repetitivo ou difícil de diagnosticar que claramente está pedindo para ser automatizado.
 
-## 🚀 Projetos em Destaque
+Atualmente estudo e desenvolvo projetos envolvendo:
 
-### ⚡ ATI V2 — Auxiliar de Atendimentos (Web App)
+* 🌐 Redes e telecomunicações
+* 💻 Desenvolvimento web e sistemas distribuídos
+* 🤖 Inteligência Artificial aplicada
+* ⚙️ Automação de processos
+* 📡 VoIP, SIP e WebRTC
+* 🏭 Sistemas industriais e supervisórios
+* 🦾 Robótica e integração hardware/software
+* 📊 Sistemas de monitoramento e diagnóstico
 
-Ecossistema web completo para equipes de suporte e telecom, focado em **produtividade, automação e comunicação interna**.
-
-#### 💡 O que resolve
-Centraliza ferramentas do dia a dia, reduz retrabalho e acelera atendimentos.
-
-#### 🔥 Principais features
-
-- 💬 Chat setorial em tempo real (Firebase)
-- ⚡ Sistema de respostas rápidas inteligentes com variáveis dinâmicas
-- 📋 Templates de Ordens de Serviço (SGP)
-- 📄 Conversor de PDF direto no navegador (extração de dados de contratos)
-- 📝 Notas pessoais com checklist e status
-- 🔐 Central de acessos (IPs, credenciais, sistemas)
-- 🛡️ Painel administrativo com controle de permissões (RBAC)
-- 🎨 Temas e personalização completa (inclusive vídeo como fundo)
-
-#### 🏗️ Arquitetura
-
-- Componentização reutilizável (UI desacoplada)
-- Hooks customizados para lógica de negócio
-- CSS modular com variáveis globais (temas)
-- Controle de acesso por setor e cargo
-- Estrutura preparada para escala
-
-#### ⚡ Performance
-
-- Performance: ~96
-- Acessibilidade: 100
-- Boas práticas: até 100
-- SEO: 100
-
-Mesmo com processamento local de PDFs, o sistema mantém alta performance.
-
-#### 🛠️ Stack
-
-- React + TypeScript + Vite
-- Firebase (Firestore + Realtime)
-- Arquitetura baseada em hooks
-- Sistema RBAC
+> **Aprender construindo. Automatizar o que é repetitivo. Entender o problema antes de escolher a tecnologia.**
 
 ---
 
-### 🧩 ATI — Extensão Chrome (ChatMix + SGP)
+## 🚀 O que eu construo
 
-Extensão desenvolvida para otimizar atendimento dentro do ChatMix, integrando diretamente com o SGP.
+Não tenho um único nicho definido. Minha especialidade está mais na **interseção entre tecnologia e problema real**.
 
-#### 💡 O diferencial
-Automatiza tarefas repetitivas e reduz o tempo de atendimento drasticamente.
+Já desenvolvi ferramentas para:
 
-#### 🔥 Funcionalidades
+* automatizar operações de atendimento;
+* integrar sistemas que não foram feitos para conversar entre si;
+* reduzir tarefas repetitivas em operações de telecom;
+* criar dashboards e sistemas em tempo real;
+* automatizar processos de migração de clientes;
+* transformar ferramentas internas em aplicações web;
+* integrar IA a fluxos de atendimento;
+* diagnosticar problemas de rede;
+* experimentar arquiteturas de VoIP e comunicação em tempo real.
 
-**Sidebar inteligente no ChatMix:**
-- 👤 Copia contato formatado
-- 🤖 Gera prompt limpo para IA
-- 📄 Extrai CPF/CNPJ automaticamente
-- 📝 Abre O.S com preenchimento automático
-- ↗️ Acesso direto ao SGP
-- 🔄 Atualização de dados em tempo real
+Grande parte dos meus projetos nasce de uma pergunta simples:
 
-**Modal de Ordem de Serviço:**
-- Status online/offline do contrato
-- Tipos de ocorrência com busca
-- Modelos personalizados por atendente
-- Rascunho automático por atendimento
-
-**Quick Replies:**
-- Respostas rápidas categorizadas
-- Inserção com 1 clique
-- Cache em memória (alta performance)
-
-**IA integrada:**
-- Limpeza de histórico automática
-- Separação cliente vs atendente
-- Pronto pra usar com ChatGPT, Claude, etc.
-
-#### 🔐 Autenticação
-
-- Login próprio via Firebase
-- Sessão persistida no Chrome
-- Controle de acesso por status
-
-#### 🏗️ Arquitetura
-
-- Service Worker (background)
-- Content Scripts com injeção no DOM
-- Cache inteligente (até 50 entradas)
-- MutationObserver para detectar mudanças no chat
-- Integração direta com sistemas externos (SGP)
-
-#### 🛠️ Stack
-
-- React + TypeScript
-- Vite (Manifest V3)
-- Firebase Realtime Database
-- Chrome Extensions API
+**“Por que alguém ainda está fazendo isso manualmente?”**
 
 ---
 
-## 🤖 Projeto em Evolução
+# 🛠️ Projetos em Destaque
 
-### Anima
+## ⚡ ATI V2
 
-Projeto de uma inteligência artificial com corpo físico, focado em:
+### Plataforma interna de produtividade para operações de telecom
 
-- Percepção sensorial
-- Interação com ambiente real
-- Integração entre hardware + software + IA
-- Exploração de comportamento autônomo
+Aplicação web criada para centralizar ferramentas utilizadas diariamente por equipes de atendimento e suporte.
 
-Esse é o projeto de longo prazo que guia toda minha evolução técnica.
+O projeto evoluiu de uma simples coleção de ferramentas para um pequeno ecossistema interno de produtividade.
 
----
+### Principais recursos
 
-## 🧠 Áreas de Interesse
+* 💬 Chat setorial em tempo real
+* ⚡ Respostas rápidas com variáveis dinâmicas
+* 📋 Templates para Ordens de Serviço
+* 📄 Processamento e extração de dados de PDFs
+* 📝 Anotações e checklists
+* 🔐 Centralização de acessos e ferramentas
+* 👥 Controle de permissões por função
+* 🎨 Sistema de temas e personalização
+* 🔄 Comunicação em tempo real
 
-- Inteligência Artificial aplicada
-- Automação de processos
-- Sistemas em tempo real
-- Robótica
-- Arquitetura de software
-- Integração entre sistemas
+### Arquitetura
 
----
+* React
+* TypeScript
+* Vite
+* Firebase
+* Realtime Database
+* Hooks customizados
+* Componentização modular
+* RBAC
 
-## 🧩 Experiência prática
-
-Atuo com suporte técnico em telecom, lidando diariamente com:
-
-- Redes de fibra óptica
-- IPTV
-- Diagnóstico de falhas
-- Atendimento em tempo real
-- Resolução de problemas sob pressão
-
-Resumo honesto: resolver problema rápido quando ninguém sabe o que está acontecendo.
+O objetivo do projeto é transformar ferramentas isoladas em um **ambiente operacional único**, reduzindo troca de contexto e retrabalho durante o atendimento.
 
 ---
 
-## 📈 Atualmente evoluindo
+## 🧩 ATI — Chrome Extension
 
-- Estruturação de backend próprio
-- Escalabilidade de sistemas
-- Arquitetura limpa (clean architecture)
-- IA aplicada em automação real
-- Testes automatizados
+### Automação de atendimento integrada ao ChatMix + SGP
+
+Extensão desenvolvida para automatizar tarefas realizadas repetidamente pelos atendentes.
+
+A extensão funciona diretamente no ambiente de atendimento e integra informações entre diferentes sistemas.
+
+### Automação
+
+* 👤 Identificação e formatação de contatos
+* 📄 Extração automática de CPF/CNPJ
+* 📝 Criação de Ordens de Serviço
+* 🔗 Integração com SGP
+* ⚡ Respostas rápidas
+* 🤖 Preparação de contexto para IA
+* 🔄 Atualização dinâmica de informações
+* 💾 Rascunhos automáticos
+* 🔎 Busca e preenchimento de dados
+
+### Arquitetura
+
+* Manifest V3
+* React
+* TypeScript
+* Vite
+* Chrome Extensions API
+* Service Worker
+* Content Scripts
+* MutationObserver
+* Firebase Realtime Database
+* Cache local
+
+Um dos projetos que mais me ensinou sobre **integração entre sistemas legados, automação de interface e engenharia reversa de fluxos de trabalho**.
 
 ---
 
-## 💡 Filosofia
+# 📡 Telecom & Networks
 
-Aprender construindo > aprender só estudando.
+Minha experiência profissional em telecom influencia diretamente a forma como desenvolvo software.
 
-Sistema bom é o que funciona em produção… e continua funcionando depois.
+No dia a dia, trabalho com problemas relacionados a:
+
+* 🌐 Redes FTTH
+* 📡 Fibra óptica
+* 🔌 PPPoE
+* 🛰️ CGNAT
+* 🌎 IPv4 e IPv6
+* 📶 OLTs
+* 🔀 BNGs e concentradores
+* 🖥️ Diagnóstico de conectividade
+* 📈 Latência e perda de pacotes
+* 🎮 Diagnóstico de problemas relacionados a jogos
+* ☎️ VoIP e SIP
+* 🔄 Integração de sistemas de operação
+
+Tenho especial interesse em transformar informações de infraestrutura em **ferramentas de diagnóstico**, permitindo que problemas de rede sejam identificados por software em vez de depender exclusivamente de análise manual.
 
 ---
 
-## 📫 Contato
+# ☎️ VoIP, SIP & WebRTC
 
-- GitHub: https://github.com/vituali
-- LinkedIn: victorhen
-- Discord: bitu
+Atualmente explorando arquiteturas para comunicação em tempo real utilizando:
+
+* SIP
+* FreeSWITCH
+* UCM
+* WebRTC
+* SIP over WebSocket
+* Gateways SIP
+* Filas de atendimento
+* URA
+* Ramais
+* Integração entre telefonia e aplicações web
+
+Um dos objetivos é aproximar **telefonia tradicional de aplicações modernas**, criando interfaces web capazes de participar diretamente da operação de atendimento.
+
+---
+
+# 🤖 IA & Automação
+
+Tenho interesse principalmente em **IA aplicada**, e não apenas em colocar um chatbot em qualquer lugar porque a palavra "AI" está na moda.
+
+Algumas aplicações que estudo:
+
+* agentes para atendimento;
+* classificação automática de solicitações;
+* geração e limpeza de contexto;
+* automação de tarefas operacionais;
+* diagnóstico assistido;
+* integração de LLMs com sistemas internos;
+* agentes capazes de interagir com APIs e ferramentas;
+* automação de processos de ponta a ponta.
+
+A ideia é utilizar IA como parte de um **sistema operacional de negócio**, e não apenas como uma interface de conversa.
+
+---
+
+# 🏭 Engenharia Mecatrônica & Indústria
+
+Minha formação em Engenharia Mecatrônica também aparece nos meus projetos.
+
+## 🏗️ Supervisório de Linha de Produção Inteligente
+
+Projeto acadêmico focado na simulação e supervisão de uma linha industrial.
+
+O sistema trabalha com múltiplas estações de produção e monitora indicadores como:
+
+* OEE
+* Disponibilidade
+* Performance
+* Qualidade
+* Throughput
+* Takt Time
+* Alertas operacionais
+* Estado das estações em tempo real
+
+A ideia é conectar **automação industrial, software, visualização de dados e análise operacional** em um único sistema.
+
+---
+
+# 🧠 Anima
+
+### Projeto de longo prazo
+
+Um projeto experimental que une meus principais interesses:
+
+**IA + robótica + percepção + hardware + software.**
+
+A proposta é explorar a construção de um sistema capaz de:
+
+* perceber o ambiente;
+* processar informações sensoriais;
+* interagir com o mundo físico;
+* executar comportamentos autônomos;
+* utilizar IA para tomada de decisão;
+* integrar hardware e software em uma arquitetura única.
+
+É um projeto de longo prazo e funciona como uma espécie de laboratório pessoal para explorar até onde consigo levar a integração entre **engenharia mecatrônica e inteligência artificial**.
+
+---
+
+# 💻 Stack & Tecnologias
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white)
+
+### Infrastructure & Networking
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+
+**PPPoE • IPv4 • IPv6 • CGNAT • FTTH • OLT • BNG • SIP • VoIP • WebRTC**
+
+### Tools
+
+**Git • GitHub • VS Code • SSH • Docker • Chrome Extensions**
+
+---
+
+# 🧩 Como penso sobre tecnologia
+
+Gosto de entender o sistema inteiro.
+
+Não apenas:
+
+> “Qual código preciso escrever?”
+
+Mas:
+
+> **“Qual problema existe, onde ele começa, onde termina e qual parte realmente deveria ser automatizada?”**
+
+Por isso tenho interesse tanto em software quanto em infraestrutura.
+
+Um sistema pode ter o frontend mais bonito do mundo. Se o processo por trás dele continua sendo uma planilha aberta em três computadores, cinco abas do navegador e alguém copiando CPF na mão, alguma coisa deu errado.
+
+---
+
+# 📈 Atualmente
+
+Meus estudos e projetos estão concentrados principalmente em:
+
+* 🧱 Arquitetura de software
+* 🌐 Engenharia de redes
+* 📡 Telecomunicações
+* 🤖 IA aplicada
+* ☎️ VoIP / SIP / WebRTC
+* 🐳 Docker e infraestrutura
+* 🗄️ Backend e bancos de dados
+* ⚙️ Automação de processos
+* 🏭 Sistemas industriais
+* 🦾 Robótica
+* 🧪 Engenharia de sistemas
+
+Também estou aprofundando meus conhecimentos em **arquitetura escalável, observabilidade, segurança, testes e integração entre sistemas**.
+
+---
+
+# 🎯 Direção
+
+Meu objetivo profissional é atuar cada vez mais na interseção entre:
+
+**Software + Redes + Automação + IA + Engenharia**
+
+Quero construir sistemas que não apenas funcionem, mas que **resolvam problemas concretos de operação**.
+
+---
+
+# 📫 Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-vituali-181717?style=flat\&logo=github)](https://github.com/vituali)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victorhen-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/victorhen)
+
+**Discord:** `bitu`
+
+---
+
+### ⚙️ Build. Automate. Integrate. Repeat.
+
+<!--
+README desenvolvido para refletir os principais interesses,
+projetos e áreas técnicas de Victor.
+-->
