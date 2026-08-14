@@ -1,228 +1,281 @@
-# 👨‍💻 Victor (Vitu)
+# 👨‍💻 Victor Henrique
 
-### Mechatronics Engineering • Telecom • Networks • Software • Automation • AI
+### Mechatronics Engineering Student • Telecom & Networks • Software • Automation • AI
 
-Sou estudante de **Engenharia Mecatrônica** e atuo profissionalmente com **suporte e infraestrutura de telecomunicações**.
+I build software and engineering systems that connect **networks, automation, data and the physical world**.
 
-Minha trajetória acabou cruzando três mundos que normalmente ficam separados: **infraestrutura, software e hardware**. Gosto de construir sistemas que resolvem problemas reais, principalmente quando existe algum processo manual, repetitivo ou difícil de diagnosticar que claramente está pedindo para ser automatizado.
+I'm currently studying **Mechatronics Engineering** while working with **telecommunications and network support**, which gives me a practical perspective on both infrastructure and software.
 
-Atualmente estudo e desenvolvo projetos envolvendo:
+My projects usually start with a real problem:
 
-* 🌐 Redes e telecomunicações
-* 💻 Desenvolvimento web e sistemas distribuídos
-* 🤖 Inteligência Artificial aplicada
-* ⚙️ Automação de processos
-* 📡 VoIP, SIP e WebRTC
-* 🏭 Sistemas industriais e supervisórios
-* 🦾 Robótica e integração hardware/software
-* 📊 Sistemas de monitoramento e diagnóstico
-
-> **Aprender construindo. Automatizar o que é repetitivo. Entender o problema antes de escolher a tecnologia.**
+> **If a process is repetitive, slow or difficult to monitor, it probably can be engineered better.**
 
 ---
 
-## 🚀 O que eu construo
+## 🧠 About Me
 
-Não tenho um único nicho definido. Minha especialidade está mais na **interseção entre tecnologia e problema real**.
+My technical path sits at the intersection of:
 
-Já desenvolvi ferramentas para:
+**Networks + Software + Automation + Engineering**
 
-* automatizar operações de atendimento;
-* integrar sistemas que não foram feitos para conversar entre si;
-* reduzir tarefas repetitivas em operações de telecom;
-* criar dashboards e sistemas em tempo real;
-* automatizar processos de migração de clientes;
-* transformar ferramentas internas em aplicações web;
-* integrar IA a fluxos de atendimento;
-* diagnosticar problemas de rede;
-* experimentar arquiteturas de VoIP e comunicação em tempo real.
+I have hands-on experience with telecommunications environments and have built internal tools to automate operational workflows, integrate systems and improve technical support processes.
 
-Grande parte dos meus projetos nasce de uma pergunta simples:
+I'm particularly interested in roles involving:
 
-**“Por que alguém ainda está fazendo isso manualmente?”**
+* 🌐 Network Engineering & Infrastructure
+* ⚙️ Automation & Systems Engineering
+* 🤖 AI applied to real-world systems
+* 🏭 Industrial automation & monitoring
+* 📡 Telecom & Network Operations
+* 💻 Backend / Systems Development
+* 🦾 Robotics & IoT
 
----
-
-# 🛠️ Projetos em Destaque
-
-## ⚡ ATI V2
-
-### Plataforma interna de produtividade para operações de telecom
-
-Aplicação web criada para centralizar ferramentas utilizadas diariamente por equipes de atendimento e suporte.
-
-O projeto evoluiu de uma simples coleção de ferramentas para um pequeno ecossistema interno de produtividade.
-
-### Principais recursos
-
-* 💬 Chat setorial em tempo real
-* ⚡ Respostas rápidas com variáveis dinâmicas
-* 📋 Templates para Ordens de Serviço
-* 📄 Processamento e extração de dados de PDFs
-* 📝 Anotações e checklists
-* 🔐 Centralização de acessos e ferramentas
-* 👥 Controle de permissões por função
-* 🎨 Sistema de temas e personalização
-* 🔄 Comunicação em tempo real
-
-### Arquitetura
-
-* React
-* TypeScript
-* Vite
-* Firebase
-* Realtime Database
-* Hooks customizados
-* Componentização modular
-* RBAC
-
-O objetivo do projeto é transformar ferramentas isoladas em um **ambiente operacional único**, reduzindo troca de contexto e retrabalho durante o atendimento.
+My long-term goal is to work closer to **engineering systems as a whole**, rather than being limited to a single software layer.
 
 ---
 
-## 🧩 ATI — Chrome Extension
+# 🚀 Featured Projects
 
-### Automação de atendimento integrada ao ChatMix + SGP
+## ⚡ ATI
 
-Extensão desenvolvida para automatizar tarefas realizadas repetidamente pelos atendentes.
+### Telecom Operations & Productivity Platform
 
-A extensão funciona diretamente no ambiente de atendimento e integra informações entre diferentes sistemas.
+A web platform built around real operational needs from a telecommunications environment.
 
-### Automação
+The project centralizes tools used by support teams and turns repetitive workflows into structured software processes.
 
-* 👤 Identificação e formatação de contatos
-* 📄 Extração automática de CPF/CNPJ
-* 📝 Criação de Ordens de Serviço
-* 🔗 Integração com SGP
-* ⚡ Respostas rápidas
-* 🤖 Preparação de contexto para IA
-* 🔄 Atualização dinâmica de informações
-* 💾 Rascunhos automáticos
-* 🔎 Busca e preenchimento de dados
+### What it solves
 
-### Arquitetura
+* Reduces repetitive work
+* Centralizes operational tools
+* Improves internal communication
+* Standardizes support workflows
+* Integrates information from different systems
+* Provides real-time operational features
+
+### Highlights
+
+* 💬 Real-time sector chat
+* ⚡ Dynamic quick replies
+* 📋 Service Order templates
+* 📄 PDF data extraction
+* 📝 Personal notes and checklists
+* 🔐 Access management
+* 👥 Role-based permissions
+* 🎨 Customizable interface
+* 🔄 Real-time synchronization
+
+### Stack
+
+`React` `TypeScript` `Vite` `Firebase` `Realtime Database`
+
+---
+
+## 🧩 ATI Chrome Extension
+
+### Support Automation & SGP Integration
+
+A Chrome extension designed to automate repetitive tasks performed by telecom support teams directly inside the customer service environment.
+
+Instead of forcing the operator to constantly switch between systems, the extension brings useful information and actions into the workflow.
+
+### Automation
+
+* 👤 Contact identification and formatting
+* 📄 Automatic CPF/CNPJ extraction
+* 📝 Service Order creation
+* 🔗 SGP integration
+* ⚡ Quick replies
+* 🤖 AI-ready conversation context
+* 🔄 Dynamic information updates
+* 💾 Automatic drafts
+* 🔎 Data search and pre-filling
+
+### Architecture
 
 * Manifest V3
-* React
-* TypeScript
+* React + TypeScript
 * Vite
-* Chrome Extensions API
-* Service Worker
+* Chrome Extension APIs
+* Service Workers
 * Content Scripts
 * MutationObserver
 * Firebase Realtime Database
-* Cache local
+* Local caching
 
-Um dos projetos que mais me ensinou sobre **integração entre sistemas legados, automação de interface e engenharia reversa de fluxos de trabalho**.
-
----
-
-# 📡 Telecom & Networks
-
-Minha experiência profissional em telecom influencia diretamente a forma como desenvolvo software.
-
-No dia a dia, trabalho com problemas relacionados a:
-
-* 🌐 Redes FTTH
-* 📡 Fibra óptica
-* 🔌 PPPoE
-* 🛰️ CGNAT
-* 🌎 IPv4 e IPv6
-* 📶 OLTs
-* 🔀 BNGs e concentradores
-* 🖥️ Diagnóstico de conectividade
-* 📈 Latência e perda de pacotes
-* 🎮 Diagnóstico de problemas relacionados a jogos
-* ☎️ VoIP e SIP
-* 🔄 Integração de sistemas de operação
-
-Tenho especial interesse em transformar informações de infraestrutura em **ferramentas de diagnóstico**, permitindo que problemas de rede sejam identificados por software em vez de depender exclusivamente de análise manual.
+This project was one of my main introductions to **browser automation, legacy system integration and software designed around real operational workflows**.
 
 ---
 
-# ☎️ VoIP, SIP & WebRTC
+## 🔄 SGP Migration Extension
 
-Atualmente explorando arquiteturas para comunicação em tempo real utilizando:
+### Telecom Customer Migration Automation
+
+A tool created to automate large-scale customer migration between telecom management systems.
+
+The project was designed around a real operational bottleneck where manual migration would require significant amounts of repetitive work.
+
+### Focus
+
+* Process automation
+* Batch operations
+* Data validation
+* Migration workflows
+* Operational reliability
+* Human error reduction
+
+The project represents one of the areas I enjoy most:
+
+> **Taking a process that normally requires people to repeat the same actions hundreds of times and turning it into an engineered workflow.**
+
+### Stack
+
+`TypeScript` `JavaScript` `Chrome Extensions` `Automation`
+
+---
+
+## 📡 PingWatch
+
+### Network Monitoring & Connectivity Diagnostics
+
+An experimental project focused on monitoring network connectivity and turning network behavior into useful technical information.
+
+The goal is to explore how software can help identify connectivity problems instead of relying entirely on manual troubleshooting.
+
+### Concepts
+
+* ICMP / latency monitoring
+* Packet loss
+* Availability
+* Connectivity analysis
+* Network diagnostics
+* Monitoring
+* Observability
+
+This project represents my growing interest in **network engineering combined with software and automation**.
+
+---
+
+## 🏭 Intelligent Production Line Supervisor
+
+### Mechatronics Engineering Project
+
+A simulated intelligent production line developed as part of my Mechatronics Engineering studies.
+
+The project combines **industrial automation concepts, software, real-time monitoring and operational analytics**.
+
+### Production monitoring
+
+* OEE
+* Availability
+* Performance
+* Quality
+* Throughput
+* Takt Time
+* Station states
+* Operational alerts
+
+The objective is to create a digital representation of a production environment where the system can monitor production conditions and expose meaningful operational information in real time.
+
+### Concepts
+
+`Industrial Automation` `SCADA` `OEE` `Real-time Systems` `Data Visualization` `Mechatronics`
+
+---
+
+# 🌐 Telecom & Network Experience
+
+Working in telecommunications has strongly influenced the way I approach software engineering.
+
+My practical experience includes working with concepts and technologies such as:
+
+* FTTH
+* Fiber Optics
+* PPPoE
+* IPv4 / IPv6
+* CGNAT
+* OLTs
+* BNGs
+* Network troubleshooting
+* Latency and packet loss analysis
+* Customer connectivity diagnostics
+* VoIP / SIP
+* Network operations
+
+This background gives me a useful perspective:
+
+**I don't only build software. I understand some of the infrastructure the software needs to operate on.**
+
+---
+
+# ☎️ VoIP & Real-Time Communication
+
+I'm currently exploring telecommunications systems beyond traditional network support, including:
 
 * SIP
 * FreeSWITCH
-* UCM
+* VoIP
 * WebRTC
 * SIP over WebSocket
-* Gateways SIP
-* Filas de atendimento
-* URA
-* Ramais
-* Integração entre telefonia e aplicações web
+* SIP Gateways
+* IVR
+* Call queues
+* Extensions
+* Web-based communication systems
 
-Um dos objetivos é aproximar **telefonia tradicional de aplicações modernas**, criando interfaces web capazes de participar diretamente da operação de atendimento.
-
----
-
-# 🤖 IA & Automação
-
-Tenho interesse principalmente em **IA aplicada**, e não apenas em colocar um chatbot em qualquer lugar porque a palavra "AI" está na moda.
-
-Algumas aplicações que estudo:
-
-* agentes para atendimento;
-* classificação automática de solicitações;
-* geração e limpeza de contexto;
-* automação de tarefas operacionais;
-* diagnóstico assistido;
-* integração de LLMs com sistemas internos;
-* agentes capazes de interagir com APIs e ferramentas;
-* automação de processos de ponta a ponta.
-
-A ideia é utilizar IA como parte de um **sistema operacional de negócio**, e não apenas como uma interface de conversa.
+The goal is to understand how modern software architectures can interact with traditional telephony infrastructure.
 
 ---
 
-# 🏭 Engenharia Mecatrônica & Indústria
+# 🤖 AI & Automation
 
-Minha formação em Engenharia Mecatrônica também aparece nos meus projetos.
+My interest in AI is primarily **applied**.
 
-## 🏗️ Supervisório de Linha de Produção Inteligente
+I'm interested in using AI as a component inside real systems rather than treating it as a standalone chatbot.
 
-Projeto acadêmico focado na simulação e supervisão de uma linha industrial.
+Areas I'm exploring:
 
-O sistema trabalha com múltiplas estações de produção e monitora indicadores como:
+* LLM-powered automation
+* AI-assisted support
+* Classification
+* Information extraction
+* Context generation
+* Technical diagnosis
+* Tool-using agents
+* Workflow automation
+* AI integrated with internal systems
 
-* OEE
-* Disponibilidade
-* Performance
-* Qualidade
-* Throughput
-* Takt Time
-* Alertas operacionais
-* Estado das estações em tempo real
+The interesting part isn't simply asking an AI a question.
 
-A ideia é conectar **automação industrial, software, visualização de dados e análise operacional** em um único sistema.
-
----
-
-# 🧠 Anima
-
-### Projeto de longo prazo
-
-Um projeto experimental que une meus principais interesses:
-
-**IA + robótica + percepção + hardware + software.**
-
-A proposta é explorar a construção de um sistema capaz de:
-
-* perceber o ambiente;
-* processar informações sensoriais;
-* interagir com o mundo físico;
-* executar comportamentos autônomos;
-* utilizar IA para tomada de decisão;
-* integrar hardware e software em uma arquitetura única.
-
-É um projeto de longo prazo e funciona como uma espécie de laboratório pessoal para explorar até onde consigo levar a integração entre **engenharia mecatrônica e inteligência artificial**.
+It's giving the system **context, tools and the ability to act**.
 
 ---
 
-# 💻 Stack & Tecnologias
+# 🦾 Robotics & Mechatronics
+
+My long-term interests extend beyond software.
+
+I'm interested in the integration of:
+
+**Sensors + Electronics + Software + Networks + AI + Mechanical Systems**
+
+This includes:
+
+* Robotics
+* Embedded systems
+* ESP32
+* Sensors
+* Industrial automation
+* Computer vision
+* Autonomous systems
+* IoT
+* Physical human-machine interaction
+
+One of my long-term experimental projects is **Anima**, focused on exploring the integration of AI with a physical robotic system.
+
+---
+
+# 🛠️ Technology
 
 ### Languages
 
@@ -231,84 +284,113 @@ A proposta é explorar a construção de um sistema capaz de:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)
 
-### Frontend
+### Software
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat\&logo=vite\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-
-### Backend & Data
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat\&logo=firebase\&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white)
-
-### Infrastructure & Networking
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 
-**PPPoE • IPv4 • IPv6 • CGNAT • FTTH • OLT • BNG • SIP • VoIP • WebRTC**
+### Networking
 
-### Tools
+`TCP/IP` `IPv4` `IPv6` `PPPoE` `CGNAT` `FTTH` `OLT` `BNG` `SIP` `VoIP` `WebRTC`
 
-**Git • GitHub • VS Code • SSH • Docker • Chrome Extensions**
+### Engineering
 
----
-
-# 🧩 Como penso sobre tecnologia
-
-Gosto de entender o sistema inteiro.
-
-Não apenas:
-
-> “Qual código preciso escrever?”
-
-Mas:
-
-> **“Qual problema existe, onde ele começa, onde termina e qual parte realmente deveria ser automatizada?”**
-
-Por isso tenho interesse tanto em software quanto em infraestrutura.
-
-Um sistema pode ter o frontend mais bonito do mundo. Se o processo por trás dele continua sendo uma planilha aberta em três computadores, cinco abas do navegador e alguém copiando CPF na mão, alguma coisa deu errado.
+`Industrial Automation` `SCADA` `OEE` `IoT` `ESP32` `Embedded Systems` `Robotics`
 
 ---
 
-# 📈 Atualmente
+# 📚 Currently Learning
 
-Meus estudos e projetos estão concentrados principalmente em:
+I'm currently focusing on strengthening the engineering side of my development:
 
-* 🧱 Arquitetura de software
-* 🌐 Engenharia de redes
-* 📡 Telecomunicações
-* 🤖 IA aplicada
-* ☎️ VoIP / SIP / WebRTC
-* 🐳 Docker e infraestrutura
-* 🗄️ Backend e bancos de dados
-* ⚙️ Automação de processos
-* 🏭 Sistemas industriais
-* 🦾 Robótica
-* 🧪 Engenharia de sistemas
-
-Também estou aprofundando meus conhecimentos em **arquitetura escalável, observabilidade, segurança, testes e integração entre sistemas**.
-
----
-
-# 🎯 Direção
-
-Meu objetivo profissional é atuar cada vez mais na interseção entre:
-
-**Software + Redes + Automação + IA + Engenharia**
-
-Quero construir sistemas que não apenas funcionem, mas que **resolvam problemas concretos de operação**.
+* Network Engineering
+* Systems Architecture
+* Backend Development
+* Linux & Infrastructure
+* Docker
+* Observability
+* Network Monitoring
+* Automation
+* AI Agents
+* Industrial Systems
+* Embedded Systems
+* Robotics
 
 ---
 
-# 📫 Contato
+# 🎯 Career Direction
 
-[![GitHub](https://img.shields.io/badge/GitHub-vituali-181717?style=flat\&logo=github)](https://github.com/vituali)
+I'm looking for opportunities where I can combine my background in **telecommunications and engineering** with my experience building software and automation systems.
+
+The areas I'm most interested in are:
+
+### 🌐 Network Engineering
+
+Infrastructure, network operations, monitoring, automation and network programmability.
+
+### ⚙️ Automation Engineering
+
+Industrial automation, process automation, control systems and engineering software.
+
+### 🤖 AI & Intelligent Systems
+
+AI applied to operational systems, diagnostics, automation and physical environments.
+
+### 💻 Systems Development
+
+Backend, integrations, real-time systems and software that interacts with infrastructure.
+
+### 🦾 Robotics / IoT
+
+The intersection between software, electronics, networks and physical systems.
+
+I'm especially interested in environments where **software is used to solve engineering and operational problems**, rather than software existing in isolation.
+
+---
+
+# 💡 Engineering Mindset
+
+I prefer building things that have a reason to exist.
+
+My approach is usually:
+
+```text
+Problem
+   ↓
+Understand the system
+   ↓
+Find the bottleneck
+   ↓
+Automate what makes sense
+   ↓
+Build
+   ↓
+Measure
+   ↓
+Improve
+```
+
+I believe good engineering is not about using the most impressive technology.
+
+It's about using the **right technology to make a real system better**.
+
+---
+
+# 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vituali\&show_icons=true\&theme=transparent\&hide_border=true\&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vituali\&layout=compact\&theme=transparent\&hide_border=true)
+
+---
+
+# 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-Vituali-181717?style=flat\&logo=github)](https://github.com/Vituali)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victorhen-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/victorhen)
 
@@ -316,9 +398,4 @@ Quero construir sistemas que não apenas funcionem, mas que **resolvam problemas
 
 ---
 
-### ⚙️ Build. Automate. Integrate. Repeat.
-
-<!--
-README desenvolvido para refletir os principais interesses,
-projetos e áreas técnicas de Victor.
--->
+### ⚙️ Build. Automate. Integrate. Engineer.
