@@ -382,9 +382,9 @@ It's about using the **right technology to make a real system better**.
 
 # 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vituali\&show_icons=true\&theme=transparent\&hide_border=true\&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vituali&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vituali\&layout=compact\&theme=transparent\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vituali&layout=compact&theme=transparent&hide_border=true)
 
 ---
 
