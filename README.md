@@ -130,15 +130,12 @@ I care about solutions that are **useful to their users, understandable to their
 
 ## 📊 GitHub activity
 
-<div align="center">
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Explore_my_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vituali?tab=repositories)
+[![Public Repositories](https://img.shields.io/badge/Projects-Public_%26_Private-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vituali)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vituali&show_icons=true&theme=transparent&hide_border=true)
+My public repositories show a selection of my work. Many of my current projects are private or developed for internal operational use, so public activity does not represent everything I build.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vituali&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
-> Many of my current projects are private or developed for internal operational use, so public activity does not represent all of my work.
+**What I build:** operational platforms · system integrations · browser automation · network tools · industrial monitoring
 
 ---
 
