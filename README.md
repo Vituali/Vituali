@@ -4,7 +4,7 @@
 
 ### Software Engineering · Systems Architecture · Telecom Infrastructure · Automation
 
-**Mechatronics Engineering student | IT & Systems at ATI Internet | Building software for real-world operations**
+**IT Solutions Analyst at ATI Internet | Mechatronics Engineering student | Building software for real-world operations**
 
 I design and build systems that connect **software, infrastructure, networks, automation and people**.
 
@@ -17,7 +17,7 @@ I design and build systems that connect **software, infrastructure, networks, au
 
 ## 👨‍💻 About me
 
-I'm a **Mechatronics Engineering student**, currently working in **IT at ATI Internet**, with a background in telecom technical support and network operations.
+I'm a **Mechatronics Engineering student**, currently working as an **IT Solutions Analyst at ATI Internet**, with a background in telecom technical support and network operations.
 
 My work has evolved from troubleshooting connectivity and supporting operational teams to **developing internal platforms, integrating systems, automating workflows and helping turn operational needs into maintainable software**.
 
